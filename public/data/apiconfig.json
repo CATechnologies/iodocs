@@ -1,4 +1,12 @@
 {
+    "teambox": {
+        "name": "Teambox API v2",
+        "protocol": "https",
+        "baseURL": "teambox.com",
+        "publicPath": "/api/2",
+        "auth": "key",
+        "keyParam": "auth_token"
+    },
     "klout": {
         "name": "Klout API",
         "protocol": "http",
