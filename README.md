@@ -32,7 +32,7 @@ INSTALLATION INSTRUCTIONS FOR NODE, NPM & REDIS
 INSTALLATION INSTRUCTIONS FOR I/O DOCS
 --------------------------------------
 From the command line type in:
-<pre>  git clone http://github.com/mashery/iodocs.git
+<pre>  git clone http://github.com/teambox/iodocs.git
   cd iodocs
   npm install
 </pre>
